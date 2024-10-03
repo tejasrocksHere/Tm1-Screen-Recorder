@@ -1,6 +1,6 @@
 # TM1 Screen Recorder 🎥✨
 
-## Overview
+## Overview (Only For Windows)
 
 ![alt text]({33A0F365-9453-4EA5-ACFF-C2881F9A1B52}.png)
 
