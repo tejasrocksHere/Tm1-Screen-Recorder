@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "TM1 Recorder",
+  "description": "It records screen and downloads",
+  "version": "1.0.0",
+  "action": {
+    "default_popup": "hello.html",
+    "default_icon": "logo.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["http://*/*", "https://*/*"],
+  "permissions": ["activeTab", "tab", "storage", "scripting"]
+}
